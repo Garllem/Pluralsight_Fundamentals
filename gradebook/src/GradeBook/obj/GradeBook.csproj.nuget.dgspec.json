@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maikl\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
+    "C:\\Users\\Maikl\\Source\\Repos\\Pluralsight_Fundamentals\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maikl\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
+    "C:\\Users\\Maikl\\Source\\Repos\\Pluralsight_Fundamentals\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maikl\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectUniqueName": "C:\\Users\\Maikl\\Source\\Repos\\Pluralsight_Fundamentals\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "C:\\Users\\Maikl\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectPath": "C:\\Users\\Maikl\\Source\\Repos\\Pluralsight_Fundamentals\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "packagesPath": "C:\\Users\\Maikl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maikl\\gradebook\\src\\GradeBook\\obj\\",
+        "outputPath": "C:\\Users\\Maikl\\Source\\Repos\\Pluralsight_Fundamentals\\gradebook\\src\\GradeBook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Maikl\\AppData\\Roaming\\NuGet\\NuGet.Config",
