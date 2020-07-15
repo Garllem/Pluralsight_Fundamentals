@@ -1,0 +1,13 @@
+C:\Users\Maikl\source\repos\Pluralsight_Fundamentals\Listing\Listing 5.7 Neinicializirovanni arg\Listing 5.7 Neinicializirovanni arg\bin\Debug\netcoreapp3.1\Listing 5.7 Neinicializirovanni arg.exe
+C:\Users\Maikl\source\repos\Pluralsight_Fundamentals\Listing\Listing 5.7 Neinicializirovanni arg\Listing 5.7 Neinicializirovanni arg\bin\Debug\netcoreapp3.1\Listing 5.7 Neinicializirovanni arg.deps.json
+C:\Users\Maikl\source\repos\Pluralsight_Fundamentals\Listing\Listing 5.7 Neinicializirovanni arg\Listing 5.7 Neinicializirovanni arg\bin\Debug\netcoreapp3.1\Listing 5.7 Neinicializirovanni arg.runtimeconfig.json
+C:\Users\Maikl\source\repos\Pluralsight_Fundamentals\Listing\Listing 5.7 Neinicializirovanni arg\Listing 5.7 Neinicializirovanni arg\bin\Debug\netcoreapp3.1\Listing 5.7 Neinicializirovanni arg.runtimeconfig.dev.json
+C:\Users\Maikl\source\repos\Pluralsight_Fundamentals\Listing\Listing 5.7 Neinicializirovanni arg\Listing 5.7 Neinicializirovanni arg\bin\Debug\netcoreapp3.1\Listing 5.7 Neinicializirovanni arg.dll
+C:\Users\Maikl\source\repos\Pluralsight_Fundamentals\Listing\Listing 5.7 Neinicializirovanni arg\Listing 5.7 Neinicializirovanni arg\bin\Debug\netcoreapp3.1\Listing 5.7 Neinicializirovanni arg.pdb
+C:\Users\Maikl\source\repos\Pluralsight_Fundamentals\Listing\Listing 5.7 Neinicializirovanni arg\Listing 5.7 Neinicializirovanni arg\obj\Debug\netcoreapp3.1\Listing 5.7 Neinicializirovanni arg.csprojAssemblyReference.cache
+C:\Users\Maikl\source\repos\Pluralsight_Fundamentals\Listing\Listing 5.7 Neinicializirovanni arg\Listing 5.7 Neinicializirovanni arg\obj\Debug\netcoreapp3.1\Listing 5.7 Neinicializirovanni arg.AssemblyInfoInputs.cache
+C:\Users\Maikl\source\repos\Pluralsight_Fundamentals\Listing\Listing 5.7 Neinicializirovanni arg\Listing 5.7 Neinicializirovanni arg\obj\Debug\netcoreapp3.1\Listing 5.7 Neinicializirovanni arg.AssemblyInfo.cs
+C:\Users\Maikl\source\repos\Pluralsight_Fundamentals\Listing\Listing 5.7 Neinicializirovanni arg\Listing 5.7 Neinicializirovanni arg\obj\Debug\netcoreapp3.1\Listing 5.7 Neinicializirovanni arg.csproj.CoreCompileInputs.cache
+C:\Users\Maikl\source\repos\Pluralsight_Fundamentals\Listing\Listing 5.7 Neinicializirovanni arg\Listing 5.7 Neinicializirovanni arg\obj\Debug\netcoreapp3.1\Listing 5.7 Neinicializirovanni arg.dll
+C:\Users\Maikl\source\repos\Pluralsight_Fundamentals\Listing\Listing 5.7 Neinicializirovanni arg\Listing 5.7 Neinicializirovanni arg\obj\Debug\netcoreapp3.1\Listing 5.7 Neinicializirovanni arg.pdb
+C:\Users\Maikl\source\repos\Pluralsight_Fundamentals\Listing\Listing 5.7 Neinicializirovanni arg\Listing 5.7 Neinicializirovanni arg\obj\Debug\netcoreapp3.1\Listing 5.7 Neinicializirovanni arg.genruntimeconfig.cache
